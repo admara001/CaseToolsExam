@@ -1,4 +1,4 @@
-
+//rbca19201
 public class Fruitrbca19126 {
 	
 	String color;
@@ -6,8 +6,5 @@ public class Fruitrbca19126 {
 	{
 	this.color=color;
 	}
-	String get_color()
-	{
-	return color;
-	}
+	
 }
